@@ -21,7 +21,7 @@ Color representation are divided into three sections viz: **Mixed**, **hex** and
 -**Javascript:** was used extensively to add functionalities and interactivity
 
 ### Links:
-Here is my hosted link to my solution.
+Here is the hosted link to my solution.
 
 https://itossudong.github.io/Color-flipper/
 
