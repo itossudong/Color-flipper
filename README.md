@@ -19,3 +19,8 @@ Color representation are divided into three sections viz: **Mixed**, **hex** and
 -**CSS** for styling and responsiveness.
 
 -**Javascript:** was used extensively to add functionalities and interactivity
+
+### Links:
+
+https://itossudong.github.io/Color-flipper/
+
